@@ -3,13 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+## About me
 
-Some information about you!
+My name is Christian Danieli and I am yet another IT security guy.
+I have a long experienced in the fields since I began writing code in '90s with MSX BASIC.
+Sometimes bugs really stumble upon me :) it's not my fault if I find them!
 
-### More Information
+Recently I'm focused on Windows security and Azure ops.
 
-A place to include any other types of information that you'd like to include about yourself.
+I hold some certifications (CEH , AZ300 & AZ301, GIAC GSSP.NET)
+I got some CVEs too..
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Anyway, I do like all that security stuff.. but it's a job after all!  A nice one!
+What I really prefer is to spend time in the sea, go fishing and spearfishing!
