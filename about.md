@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Whoami
 permalink: /about/
 ---
-## About me
+# About me
 
-My name is Christian Danieli and I am yet another IT security guy.  
+My name is Christian Danieli and I am yet another IT security guy. I live in Padua (Italy)  
 I have a long experienced in the fields since I began writing code in '90s with MSX BASIC.  
 Sometimes bugs really stumble upon me :) it's not my fault if I find them!  
 
