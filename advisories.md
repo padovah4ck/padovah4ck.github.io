@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Whoami
+title: Advisories
 permalink: /Advisories/
 ---
 ### - [CVE-2019-0986 | Windows User Profile Service Elevation of Privilege](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0986)
