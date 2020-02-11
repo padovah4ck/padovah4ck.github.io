@@ -15,4 +15,4 @@ permalink: /Advisories/
 - CVE-2020-0636 - Windows Subsystem for Linux Elevation of Privilege - [[Adv](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0636)]
 
 
-- CVE-2020-0683 - Windows Subsystem for Linux Elevation of Privilege - [[Adv](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0683)]
+- CVE-2020-0683 - Windows Installer Elevation of Privilege - [[Adv](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0683)]
