@@ -4,17 +4,16 @@ title: Whoami
 permalink: /about/
 ---
 
-My name is Christian Danieli and I am yet another IT security guy. I live in Padua (Italy)  
+My name is Chris Danieli and I am yet another (IT) security guy. I live in Padua (Italy)  
 
-I have a broad experience in the field since I began writing code in '90s with MSX BASIC.  
+I have extensive experience in the industry as I started coding in the 90's with MSX BASIC. 
 
 Sometimes bugs really stumble upon me :) it's not my fault if I find them!  
 
-Recently I'm focused on Windows security and Azure ops.
+Recently I'm focused on Web-App security, Windows internal bug hunting and sometimes I play with Azure infrastructure.
 
-I hold some certifications (CEH , AZ300 & AZ301, GIAC GSSP.NET)  
+I hold some certifications for what they are worth (OSWE, GIAC GSSP.NET, AZ300 & AZ301, CEH)  
 
 I got some CVEs too..  see my advisories.
 
-Anyway, I do like all that security stuff out there.. but it's a job after all! A nice one!  
-What I really prefer is to spend time with my family - often go fishing and sometimes spearfishing! 
+Anyway, I do like all that security stuff out there.. After all you never stop learning
