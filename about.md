@@ -4,7 +4,7 @@ title: Whoami
 permalink: /about/
 ---
 
-My name is Chris and I am yet another (IT) security guy. I live in northern Italy
+My name is Chris and I am yet another (IT) security guy. I live in the north-east of Italy
 
 I have extensive experience in the industry as I started coding in the 90's with MSX BASIC. 
 
